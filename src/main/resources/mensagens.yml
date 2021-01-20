@@ -1,0 +1,27 @@
+Mensagens:
+  console-execute: '&cApenas jogadores podem usar este comando!'
+  not-permission: '&cVocê não tem permissão para executar este comando!'
+  already-started: '&cLoteria já foi iniciada!'
+  reload-ocorrendo: '&cVocê não pode recarrega os arquivos com a loteria ocorrendo!'
+  reload-sucess: '&aArquivos recarregados com sucesso!'
+  Loteria-Iniciada: '&aLoteria iniciada o número gerado é: &e@numero'
+  Nao-Ocorrendo: '&co Evento &eLoteria &cnão está ocorrendo!'
+  Numero-Errado: '&cNúmero errado, tente novamente.'
+  Evento-Cancelado: '&cO Evento &eLoteria &cfoi cancelado por staffs!'
+  Vencedor-Loteria:
+    - ''
+    - '&e[Loteria] &f@ganhador &avenceu o evento loteria!'
+    - '&eO número era &a@numero'
+    - ''
+  Help:
+    admin:
+      - ''
+      - '&a/loteria <número> &8- &ePara participar'
+      - '&c/loteria iniciar &8- &ePara iniciar a loteria'
+      - '&c/loteria parar &8- &ePara parar a loteria'
+      - ''
+    player:
+      - ''
+      - '&a/loteria <número> &8- &ePara participar'
+      - ''
+      - ''

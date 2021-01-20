@@ -1,0 +1,24 @@
+#Criado por <MisterSevent>
+#Segundo projeto plugin
+
+Permissions:
+  admin: loteria.admin
+
+Loteria:
+  Numero: 0
+  Maximo: 50
+  Anuncios: 5
+  Segundos: 10
+  Anuncio:
+    - ''
+    - '&6&lLOTERIA!'
+    - ''
+    - '▪ &eEvento loteria iniciado!'
+    - '▪ &eNúmero de &a0 &eaté &a50&e!'
+    - '▪ &ePrêmio: &2R$&a15K'
+    - ''
+    - '▪ &cPara participar, utilize &f/loteria <número>'
+    - ''
+  Premios:
+    - money add @player 5000
+    - money add @player 10000
